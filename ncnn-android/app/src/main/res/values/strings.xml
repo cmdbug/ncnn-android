@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ncnn</string>
+    <string-array name="model_array">
+        <item>nanodet-m</item>
+        <item>nanodet-m-416</item>
+        <item>nanodet-g</item>
+        <item>nanodet-ELite0_320</item>
+        <item>nanodet-ELite1_416</item>
+        <item>nanodet-ELite2_512</item>
+        <item>nanodet-RepVGG-A0_416</item>
+        <item>yolox-nano</item>
+        <item>yolox-tiny</item>
+        <item>blazeface_192</item>
+        <item>blazeface_320</item>
+        <item>blazeface_640</item>
+        <item>human-matting</item>
+        <item>yolov4-tiny</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+    <string-array name="powersave_array">
+        <item>全部</item>
+        <item>小核</item>
+        <item>大核</item>
+    </string-array>
+    <string-array name="threads_array">
+        <item>自动</item>
+        <item>线程数: 1</item>
+        <item>线程数: 2</item>
+        <item>线程数: 3</item>
+        <item>线程数: 4</item>
+        <item>线程数: 5</item>
+        <item>线程数: 6</item>
+        <item>线程数: 7</item>
+        <item>线程数: 8</item>
+    </string-array>
+</resources>
