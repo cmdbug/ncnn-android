@@ -8,7 +8,7 @@
 ```
 轻量级OpenCV:[opencv-mobile](https://github.com/nihui/opencv-mobile)
 
-需要在项目jni文件夹中新建 opencvmobile与ncnnvulkan文件夹，自己增加 ncnnvulkan 的库与 opencv-mobile 的库，目录结构大概这样。
+需要在项目 jni 文件夹中新建 opencvmobile 与 ncnnvulkan 文件夹，自己增加 ncnnvulkan 的库与 opencv-mobile 的库，目录结构大概这样。
 
 ncnn:
 ```
